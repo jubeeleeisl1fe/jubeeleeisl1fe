@@ -20,5 +20,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<a href="https://github.com/jubeeleeisl1fe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubeeleeisl1fe" alt="Top Languages" /></a>
+<a href="https://github.com/jubeeleeisl1fe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubeeleeisl1fe&layout=donut" alt="Top Languages" /></a>
 
